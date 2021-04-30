@@ -37,6 +37,7 @@ Some variables will have to be set in the jupyter notebook file before running t
 
 Outputs are in the folder /outputs.
 > Saved models in /outputs/models
+
 > Outputs of corresponding models in /outputs/model<id>
 
 ### Related Links
