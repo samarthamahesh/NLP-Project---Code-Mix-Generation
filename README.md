@@ -39,7 +39,7 @@ Outputs are in the folder /outputs.
 
 > Outputs of corresponding models are in /outputs/model_id
 
-File that was used to create datasets is in /utils/create_datasets
+File that was used to create datasets is in /utils/create_datasets.py
 
 ### Related Links
 
