@@ -6,11 +6,11 @@
 
 *Samartha S M (2018101094)*
 
-Mentor - Prashant Kodali
+*Mentor - Prashant Kodali*
 
 ### How to execute the code
 
-There are different jupyter notebook files in the src directory for different models.
+> There are different jupyter notebook files in the src directory for different models.
 
 To open any jupyter notebook file,
 
@@ -35,10 +35,11 @@ Some variables will have to be set in the jupyter notebook file before running t
 
 **Model path**: File path where you want to store the model instance
 
-Outputs are in the folder /outputs.
-> Saved models in /outputs/models
+> Outputs are in the folder /outputs.
 
-> Outputs of corresponding models in /outputs/model_id
+>> Outputs of corresponding models are in /outputs/model_id
+
+> File that was used to create datasets is in /utils/create_datasets
 
 ### Related Links
 
