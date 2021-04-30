@@ -43,3 +43,5 @@ Outputs are in the folder /outputs.
 ### Related Links
 
 Dataset link: https://iiitaphyd-my.sharepoint.com/:f:/g/personal/prashant_kodali_research_iiit_ac_in/EsSRXSdygL5DmyTaV-2oWxcB9t7NHA9oB5_ugYwp_HftYA?e=2iaTE1
+
+Model checkpoints link: https://drive.google.com/file/d/187annbuwDM-N2xpMztZ0rtiOJXQMDP1w/view?usp=sharing
