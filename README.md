@@ -16,7 +16,7 @@ To open any jupyter notebook file,
 
 ```python
 $ cd src
-$ jupyter notebook model<N>.py
+$ jupyter notebook model<N>.ipynb
 ```
 
 where, N is the model ID as mentioned below,
